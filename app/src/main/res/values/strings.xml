@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">VoiceDictation</string>
+    <string name="touchStart">Touch to voice dictation</string>
+    <string name="touchFinish">Touch to finish dictation</string>
 </resources>
